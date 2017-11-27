@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	foo.boo()
+	fmt.Print("hello")
 }
