@@ -3,7 +3,7 @@ package boo_test
 import (
 	"testing"
 
-	"github.com/test1/foo"
+	"github.com/test/foo"
 )
 
 // data and error string output
